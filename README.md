@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🔭 I’m currently working at Tiptop-match (Video dating app).
+- 🔭 I’m currently working at Amdocs.
 - 🌱 I’m currently learning React Native.
 - 🤔 I’m looking for help with turning from midlevel to senior developer.
 - 💬 Ask me about "code arting" (being an artist with code).
